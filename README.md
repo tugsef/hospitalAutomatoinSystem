@@ -5,6 +5,7 @@ Repository Java Programlama dili kullanılarak yaptığım Hastane Otomasyon Sis
 <details><summary><b>Kullanılan Teknolojiler</b></summary>
    <p>
   <ul>
+     <li>Java</li>
   <li>Java JDBS</li>
   <li>Java Swing</li>
   <li>SQL</li>
@@ -56,7 +57,7 @@ https://user-images.githubusercontent.com/39422788/223234515-c18dda32-9c5c-4482-
 
 </details>
 
-Yararlanılan kaynak [Kodlama Vakti](https://www.youtube.com/@KodlamaVakti)
+> Yararlanılan kaynak [Kodlama Vakti](https://www.youtube.com/@KodlamaVakti)
 
 # :envelope: Sefa Demirtaş
 Patika.dev Educational Projects

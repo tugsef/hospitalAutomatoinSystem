@@ -2,7 +2,7 @@
 
 
 Repository Java Programlama dili kullanılarak yaptığım Hastane Otomasyon Sistemi progarmını kapsar. 
-<details><summary><b>Kullanılan Teknlojiler</b></summary>
+<details><summary><b>Kullanılan Teknolojiler</b></summary>
    <p>
   <ul>
   <li>Java JDBS</li>

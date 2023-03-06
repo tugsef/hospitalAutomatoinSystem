@@ -60,7 +60,7 @@ https://user-images.githubusercontent.com/39422788/223234515-c18dda32-9c5c-4482-
 > Yararlanılan kaynak [Kodlama Vakti](https://www.youtube.com/@KodlamaVakti)
 
 # :envelope: Sefa Demirtaş
-Patika.dev Educational Projects
+Java Developer
 
 Repository Java ve Sql bilgilerimi uygulamaya çalıştığım proje yer almaktadır. İsim ve Kurumlar gerçeği yansıtmamaktadır.
 
